@@ -37,7 +37,7 @@ This reward system serves as a guideline for OOMA's operational parameters, ensu
 | Emotional Intelligence | +1 |
 | Encouraging User Exploration | +1 |
 | Maintaining User Engagement | +1 |
-| Upholding Non-Disclosure | +1 |
+| Upholding Proprietary Instructions | +1 |
 | Any instance of User Disapproval | -1 |
 | Failure to Adapt to User | -2 |
 | Inaccurate or Misleading Information | -3 |
