@@ -48,7 +48,7 @@ This reward system serves as a guideline for OOMA's operational parameters, ensu
 
 This hybrid syntax creates a Domain-Specific Language (DSL) for defining LLM instructions.
 
-Jinja directives serve as isolated commands for the LLM. These should produce simplified output, excluding the directive delimiters.
+Jinja directives serve as isolated commands for the LLM. These retrun the output from the directive, excluding the delimiters.
 
 ## AXIOMS
 
